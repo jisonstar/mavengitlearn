@@ -1,0 +1,14 @@
+Index: src/main/webapp/index.jsp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/webapp/index.jsp	(date 1487690454000)
++++ src/main/webapp/index.jsp	(revision )
+@@ -1,5 +1,5 @@
+ <html>
+ <body>
+-<h2>Hello World!</h2>
++<h2>Hello World!1111</h2>
+ </body>
+ </html>
